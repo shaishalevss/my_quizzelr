@@ -1,6 +1,6 @@
 # my_quizzelr
 
-A new Flutter application.
+An quiz app that I create using flutter/dart. little quiz about me.
 
 ## Getting Started
 
